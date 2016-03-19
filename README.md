@@ -2,8 +2,6 @@
 
 [Free Code Camp](https://www.freecodecamp.com) provides a list of algorithm challenges.
 
-* Bonfires from Free Code Camp
-
 * Reverse a String Complete
 
 * Factorialize a Number Complete
